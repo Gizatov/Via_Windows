@@ -32,6 +32,6 @@ public class LoginPage {
     }
 
     public void clickLoginBtn(){
-        loginBtn.click()
+        loginBtn.click();
     }
 }
